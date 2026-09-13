@@ -1,0 +1,12 @@
+{
+  "total_area": 56656.41187144642,
+  "total_perimeter": 2291.6994344509385,
+  "centerline_length": 1293.1135683600733,
+  "candidate_count": 0,
+  "extent_wgs84": {
+    "xmin": NaN,
+    "ymin": NaN,
+    "xmax": NaN,
+    "ymax": NaN
+  }
+}
